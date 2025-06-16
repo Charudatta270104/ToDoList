@@ -33,9 +33,6 @@ body {
 .title {
   font-size: 1.8rem;
   margin-bottom: 1.2rem;
-  /* background: linear-gradient(90deg, #ec4899, #a855f7);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent; */
   color: rgb(202, 87, 106);
 }
 
@@ -75,10 +72,6 @@ body {
   border-radius: 8px;
   color: #94a3b8;
 }
-
-/* .task-item {
-  list-style: none;
-} */
 
 .task-item {
   list-style: none;
