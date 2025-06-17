@@ -38,10 +38,10 @@ A simple and interactive ToDo List web application built using **HTML**, **CSS**
 ```bash
 ToDoList/
 │
-├── index.html # Main HTML file
-├── style.css # CSS for layout and styling
-├── script.js # JavaScript logic
-└── README.md # Project documentation
+├── index.html 
+├── style.css 
+├── script.js 
+└── README.md 
 ```
 
 ### [🚀 View Live Demo](https://8f37jf.csb.app/)
